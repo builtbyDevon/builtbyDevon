@@ -46,7 +46,7 @@ Pocketbase • Shopify • Various APIs
 
 ## Let's Connect
 
-- 💼 [LinkedIn](https://linkedin.com/in/devonwelch)
+- 💼 [LinkedIn](https://linkedin.com/in/devon-welch)
 - 🌐 [Portfolio](https://devonw.me)
 - 📧 hello@devonw.me
 
